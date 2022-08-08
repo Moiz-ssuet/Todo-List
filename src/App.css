@@ -1,0 +1,69 @@
+.App-header {
+  /* background-color: #282c34; */
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.form {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+
+.edit {
+  align-items: center;
+  text-align: center;
+}
+
+.delete {
+  align-items: center;
+  text-align: center;
+}
+
+.clear {
+  align-items: center;
+  text-align: center;
+  }
+
+.item {
+  margin-left: auto;
+}
+
+.heading_text h1 {
+  text-align: center;
+  font-size: 100px;
+  color: rgb(9, 7, 128);
+  /* color: blue; */
+}
+
+
+.button {
+  align-items: center;
+  text-align: center;
+
+}
+.checked-item,
+.not-checked-item {
+  text-align: center;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-left: 10px;
+}
+
+.checked-item {
+  text-align: center;
+  font-size: 20px;
+  font-weight: lighter;
+  text-decoration: line-through;
+}
+
+.App-link {
+  color: #61dafb;
+}
